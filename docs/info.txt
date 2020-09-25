@@ -1,0 +1,11 @@
+# lcd
+https://www.instructables.com/id/LCD-1602-With-Arduino-Uno-R3/
+
+# distance
+https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+
+# stepper
+https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/
+
+# gears
+https://www.tandwielen.com/rechte-tandwielen/moduul-1.html#%21___SID=U&p=3
